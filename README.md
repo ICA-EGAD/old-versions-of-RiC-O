@@ -1,6 +1,6 @@
 # old-versions-of-RiC-O
 
-In this repository, ICA/EGAD stores the oldest versions of RiC-O, which we recommend not to use, and accompanying material when it exists. 
+In this repository, ICA/EGAD stores the oldest versions of RiC-O, which we recommend not to use, and accompanying files (diagrams and examples) when they exist. 
 
 For now, you will find here versions of RiC-O prior to RiC-O 1.0.
 
